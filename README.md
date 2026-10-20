@@ -20,11 +20,11 @@
 
 - **RP1 机器人** —— RoboParty 公开机器人项目，参与支持与协作。
   <!-- 仓库公开后，把下面这行的 <你的用户名或组织> 替换为真实地址 -->
-  🔗 [https://github.com/<你的用户名或组织>/RP1](https://github.com/<你的用户名或组织>/RP1)
+  🔗 [https://github.com/Roboparty/RP1](https://github.com/Roboparty/RP1)
 
 ## 🏢 组织入口
 
-- 🏭 **RoboParty（萝博派对）**：[https://github.com/<组织名>](https://github.com/<组织名>)
+- 🏭 **RoboParty（萝博派对）**：[https://github.com/Roboparty](https://github.com/Roboparty)
   <!-- 替换为你们在 GitHub 上的组织主页地址 -->
 
 ## 📮 联系我
